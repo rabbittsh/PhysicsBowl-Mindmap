@@ -1,2 +1,3 @@
 # PhysicsBowl-Mindmap
-[An Internal Link](Kinematics/kinematics.html)
+[Kinematics](Kinematics/kinematics.html)
+
